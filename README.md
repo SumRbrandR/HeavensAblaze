@@ -12,7 +12,7 @@ I have another project in the works (as of 7/26/2024), which will be available o
 
 
 # Installation
-Download for your OS from [sumRbrandR.github.io](http://sumrbrandr.github.io)
+Download for your OS from [treadthedawngames.github.io](http://treadthedawngames.github.io)
 
 ### Windows: 
 Unzip to desired location.
@@ -28,7 +28,7 @@ Double click dmg.
 
 Drag and drop Heavens Ablaze app to the Applications folder.
 
-Run. 
+MacOS may block it from opening, thinking it's unsafe to open. If it does, right click the icon and click "open," then the option to run anyway.
 
 
 ## Known Issues
